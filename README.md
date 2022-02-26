@@ -4,4 +4,4 @@
 <b>I like to code and make stuff in my freetime.</b>
 
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatgirlsSimp&count_private=true&theme=codeSTACKr&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatgirlsSimp&count_private=true&theme=midnight-purple&layout=compact">
