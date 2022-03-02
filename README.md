@@ -6,6 +6,7 @@
 <h2>Projects</h2>
 <div></div>
 <b><a href="https://catgirlssimp.github.io/websiteTemplate.html">Website Template</a></b>
+<b><a hef="https://catgirlssimp.github.io/githubUserFinder.html"></a></b>
 <br></br>
 <h2>Info</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatgirlsSimp&count_private=true&theme=midnight-purple&layout=compact">
