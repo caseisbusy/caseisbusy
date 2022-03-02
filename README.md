@@ -7,7 +7,7 @@
 <div></div>
 <b><a href="https://catgirlssimp.github.io/websiteTemplate.html">Website Template</a></b>
 <br></br>
-<b><a hef="https://catgirlssimp.github.io/githubUserFinder.html">Github User Finder</a></b>
+<b><a href="https://catgirlssimp.github.io/githubUserFinder.html">Github User Finder</a></b>
 <br></br>
 <h2>Info</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatgirlsSimp&count_private=true&theme=midnight-purple&layout=compact">
