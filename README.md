@@ -6,6 +6,7 @@
 <h2>Projects</h2>
 <div></div>
 <b><a href="https://catgirlssimp.github.io/websiteTemplate.html">Website Template</a></b>
+<br></br>
 <b><a hef="https://catgirlssimp.github.io/githubUserFinder.html">Github User Finder</a></b>
 <br></br>
 <h2>Info</h2>
