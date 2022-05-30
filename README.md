@@ -14,3 +14,4 @@
 <br></br>	
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=default">
 <img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Idling">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Get+some+bitches.">
