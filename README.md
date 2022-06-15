@@ -5,14 +5,15 @@
 <br><br>
 <h2>Projects</h2>
 <div></div>
-<b><a href="https://catgirlssimp.github.io/websiteTemplate.html">Website Template</a></b>
+<b><a href="https://cased-vsc.github.io/websiteTemplate.html">Website Template</a></b>
 <div></div>
-<b><a href="https://catgirlssimp.github.io/githubUserFinder.html">Github User Finder</a></b>
+<b><a href="https://cased-vsc.github.io/githubUserFinder.html">Github User Finder</a></b>
 <br></br>
 <h2>Info</h2>
 <div>
 <img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Idling">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatgirlsSimp&count_private=true&theme=midnight-purple&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cased-vsc&count_private=true&theme=midnight-purple&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues&theme=gotham">
 </div>
 <br></br>
 <h2>Spotify Status</h2>
