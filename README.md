@@ -10,7 +10,7 @@
 <div>
 <img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Being useless and meaningless">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cased-vsc&count_private=true&theme=midnight-purple&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues,stars&theme=gotham">
 </div>
 <br></br>
 <h2>Spotify Status</h2>
