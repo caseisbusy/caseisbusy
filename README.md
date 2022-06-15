@@ -1,8 +1,5 @@
-<div></div>
-<b>Hi I'm Solo, I'm a developer and a coder.</b>
-<div></div>
-<b>I like to code and make stuff in my freetime.</b>
-<br><br>
+<h6>Girls are hot</h6>
+<br></br>
 <h2>Projects</h2>
 <div></div>
 <b><a href="https://cased-vsc.github.io/websiteTemplate.html">Website Template</a></b>
