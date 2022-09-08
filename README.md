@@ -19,10 +19,10 @@
 <div>
 	
 <img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=In%20a%20shooter%F0%9F%98%81">
+
+<br/>
 	
- <br/>
- 
-	<details> 
+<details> 
    <summary>Details</summary>
     <br/>
     <a>
@@ -42,6 +42,9 @@
 
 <h3>I listen to alot of weird songs d:</h3>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=default">
+<details>
+  <summary>Spotify</summary>
+	  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem">
+</details>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Get+some+bitches.">
