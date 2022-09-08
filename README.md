@@ -25,10 +25,10 @@
 
 
    <details> 
-   <summary>Top Languages</summary>
+   <summary>Details.</summary>
     <br />
     <a href="#">
-      <img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-green&hide_title=true&langs_count=8&hide_border=true&card_width=445&hide=nix,shell" />
+      <img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-purple&hide_title=true&hide_border=true&card_width=445&hide=nix,shell" />
     </a>    
   </details>
   <br />
