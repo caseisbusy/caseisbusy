@@ -1,5 +1,5 @@
-<h6>Girls are hot</h6>
 
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=0AD465&background=000000&multiline=true&width=435&height=120&lines=14+y%2Fo;Programming+atheist;Super+cool+html+coder+%F0%9F%98%81" alt="Typing SVG" /></a>
 
 <br></br>
 <h2>Projects</h2>
@@ -38,13 +38,7 @@
 
 <br></br>
 
-<h2>Spotify Status</h2>
-
-<h3>I listen to alot of weird songs d:</h3>
-
 <details>
   <summary>Spotify</summary>
 	  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem">
 </details>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Get+some+bitches.">
