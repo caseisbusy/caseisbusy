@@ -28,7 +28,7 @@
    <summary>Top Languages</summary>
     <br />
     <a href="#">
-      <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=casedv-sc&layout=compact&theme=blue-green&hide_title=true&langs_count=8&hide_border=true&card_width=445" />
+      <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-green&hide_title=true&langs_count=8&hide_border=true&card_width=445" />
     </a>    
   </details>
   <br />
