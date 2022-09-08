@@ -36,8 +36,6 @@
 </div>
 
 <br></br>
-
-<details>
-  <summary>Spotify</summary>
-	  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem">
-</details>
+	
+ 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem">
