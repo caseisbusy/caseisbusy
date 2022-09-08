@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=0AD465&background=0D1117&multiline=true&width=435&height=100&lines=14+y%2Fo;Programming+atheist;Super+cool+html+coder+%F0%9F%98%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=0AD465&background=0D111700&multiline=true&width=435&height=100&lines=14+y%2Fo;Programming+atheist;Super+cool+html+coder+%F0%9F%98%81" alt="Typing SVG" /></a>
 
 <h2>Projects</h2>
 
