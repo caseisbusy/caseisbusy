@@ -13,6 +13,12 @@
 
 <br></br>
 
+<h2>Streak Details</h2>
+
+<a href="git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cased-vsc&theme=hacker"></a>
+
+<br></br>
+
 <h2>Discord Account</h2>
 
 <div>
