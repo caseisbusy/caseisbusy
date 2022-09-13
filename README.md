@@ -31,10 +31,10 @@
    <summary>Details</summary>
     <br/>
     <a>
-      <img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-green&hide_title=true&hide_border=true&card_width=445&hide=nix,shell" />
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-green&hide_title=true&hide_border=true&card_width=445&hide=nix,shell" /></a>
     </a>    
 		 <a>
-	<img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues&theme=blue-green">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues&theme=blue-green"></a>
 		 </a>
   </details>
   <br/>
@@ -44,4 +44,4 @@
 <br></br>
 	
  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem">
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=soloboyyeet&cover_image=true&theme=novatorem"></a>
