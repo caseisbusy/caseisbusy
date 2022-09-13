@@ -30,10 +30,10 @@
 <details> 
    <summary>Details</summary>
     <br/>
-    <a>
+    <div>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&theme=blue-green&hide_title=true&hide_border=true&card_width=445&hide=nix,shell" /></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&show_icons=true&hide=issues&theme=blue-green"></a>
-		 </a>
+		 </div>
   </details>
   <br/>
  
