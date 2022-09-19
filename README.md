@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=1DB10D&background=0D111700&multiline=true&width=435&height=100&lines=14+y%2Fo;Programming+atheist;Super+cool+html+coder+%F0%9F%98%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=FE0088&background=00000000&multiline=true&width=435&height=100&lines=14+y%2Fo;Programming+atheist;Super+cool+html+coder+%F0%9F%98%81" alt="Typing SVG" /></a>
 
 <h2>Projects</h2>
 
@@ -15,7 +15,7 @@
 
 <h2>Streak Details</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cased-vsc&theme=hacker"></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cased-vsc&theme=violet-dark"></a>
 
 <br></br>
 
