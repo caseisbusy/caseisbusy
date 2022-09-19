@@ -31,9 +31,9 @@
    <summary>Details</summary>
     <br/>
     <div>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&text_color=FE0088&bg_color=1B1212&hide_title=true&border_radius=6&card_width=445&hide=nix,shell" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&text_color=FE0088&title_color=FE0088&bg_color=1B1212&border_radius=6&card_width=445&hide=nix,shell" /></a>
 			<br></br>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&title_color=1DB10D&icon_color=FFC000&text_color=1DB10D&bg_color=020201&show_icons=true&hide=issues"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&title_color=FE0088&icon_color=FE0088&text_color=FE0088&bg_color=020201&show_icons=true&hide=issues"></a>
 		 </div>
   </details>
   <br/>
