@@ -5,17 +5,17 @@
 
 <div></div>
 
-<b><a href="https://cased-vsc.github.io/websiteTemplate.html">Website Template</a></b>
+<b><a href="https://caseisbusy.github.io/websiteTemplate.html">Website Template</a></b>
 
 <div></div>
 
-<b><a href="https://cased-vsc.github.io/githubUserFinder.html">Github User Finder</a></b>
+<b><a href="https://caseisbusy.github.io/githubUserFinder.html">Github User Finder</a></b>
 
 <br></br>
 
 <h2>Streak Details</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cased-vsc&theme=violet-dark"></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=caseisbusy&theme=violet-dark"></a>
 
 <br></br>
 
@@ -23,7 +23,7 @@
 
 <div>
 	
-<a href="https://lanyard-profile-readme.vercel.app"><img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Idle%F0%9F%98%81"></a>
+<a href="https://lanyard-profile-readme.vercel.app"><img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Offline"></a>
 
 <br></br>
 	
@@ -31,9 +31,9 @@
    <summary>Details</summary>
     <br/>
     <div>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=cased-vsc&layout=compact&text_color=FE0088&title_color=FE0088&bg_color=1B1212&border_radius=6&card_width=445&hide=nix,shell" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=caseisbusy&layout=compact&text_color=FE0088&title_color=FE0088&bg_color=1B1212&border_radius=6&card_width=445&hide=nix,shell" /></a>
 			<br></br>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cased-vsc&title_color=FE0088&icon_color=FFC000&text_color=FE0088&bg_color=020201&show_icons=true&hide=issues"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=caseisbusy&title_color=FE0088&icon_color=FFC000&text_color=FE0088&bg_color=020201&show_icons=true&hide=issues"></a>
 		 </div>
   </details>
   <br/>
