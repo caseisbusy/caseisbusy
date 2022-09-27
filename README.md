@@ -23,7 +23,7 @@
 
 <div>
 	
-<a href="https://lanyard-profile-readme.vercel.app"><img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Offline"></a>
+<a href="https://lanyard-profile-readme.vercel.app"><img src="https://lanyard-profile-readme.vercel.app/api/626848427736694795?theme=dark&bg=222024&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Not%20playing%20anything"></a>
 
 <br></br>
 	
