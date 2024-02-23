@@ -12,6 +12,8 @@
 
 <b><a href="https://caseisbusy.github.io/githubUserFinder.html">Github User Finder</a></b>
 
+<b><a href="https://caseisbusy.github.io/discordFinder.html">Discord User Finder (ID)</a></b>
+
 <br></br>
 
 <h2>Streak Details</h2>
