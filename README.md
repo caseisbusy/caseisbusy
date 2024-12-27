@@ -1,7 +1,5 @@
 <a href="github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=caseisbusy&theme=onedark"></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=1700&pause=500&color=FE0088&background=00000000&multiline=true&width=435&height=100&lines=My+names+Malek+:);Bday+on+January+24;Good+with+html+%F0%9F%98%81" alt="Typing SVG" /></a>
-
 <h2>Projects</h2>
 
 <div></div>
